@@ -10,7 +10,7 @@ Clone the repository and open the Laravel project in your IDE.
 
 You need the following installed:
 
-* [VsCode](https://code.visualstudio.com/) or any web IDE of your choice.
+* [VS Code](https://code.visualstudio.com/) or any web IDE of your choice.
 
 
 ## Built With
