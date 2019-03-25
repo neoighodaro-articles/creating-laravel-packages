@@ -15,5 +15,5 @@ You need the following installed:
 
 ## Built With
 
-* [Laravel] (https://laravel.com) - Used to build the Laravel package.
+* [Laravel](https://laravel.com) - Used to build the Laravel package.
 * [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
