@@ -1,5 +1,5 @@
 # Laravel Package
-A laravel package to easily add reviews to your web applications. 
+A laravel package to easily add reviews to your web applications. [Tutotial](https://pusher.com/tutorials/build-laravel-packages)
 
 ## Getting Started
 
